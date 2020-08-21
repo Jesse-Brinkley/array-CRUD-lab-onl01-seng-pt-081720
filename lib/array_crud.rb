@@ -13,7 +13,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   sodas = ["Pepsi", "Dr.Pepper", "Mountain Dew", "7UP"]
-  sodas >> "arrays!"
+
 end
 
 def remove_element_from_end_of_array(array)
