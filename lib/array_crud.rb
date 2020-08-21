@@ -18,11 +18,12 @@ end
 
 def remove_element_from_end_of_array(array)
   sodas = ["Pepsi", "Dr.Pepper", "Mountain Dew", "arrays!"]
-  array = sodas.pop
+  arrays! = sodas.pop
 end
 
 def remove_element_from_start_of_array(array)
-
+  sodas = ["wow", "Dr.Pepper", "Mountain Dew", "7UP"]
+  wow = sodas.shift
 end
 
 def retrieve_element_from_index(array, index_number)
