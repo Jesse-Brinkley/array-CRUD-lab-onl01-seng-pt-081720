@@ -27,8 +27,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-sodas = ["Pepsi", "Dr.Pepper", "am", "7UP"]
-sodas[3]
+sodas = ["Pepsi", "Dr.Pepper", "Mountain Dew", "am"]
+sodas[4]
 end
 
 def retrieve_first_element_from_array(array)
