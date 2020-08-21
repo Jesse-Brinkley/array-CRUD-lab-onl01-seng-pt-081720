@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
 sodas = ["Pepsi", "Dr.Pepper", "Mountain Dew", "am"]
-sodas.index[4]
+sodas.index["am"]
 end
 
 def retrieve_first_element_from_array(array)
