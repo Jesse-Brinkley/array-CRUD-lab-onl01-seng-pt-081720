@@ -17,13 +17,13 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  sodas = ["Pepsi", "Dr.Pepper", "Mountain Dew", "arrays!"]
-  arrays! = sodas.pop
+  sodas = ["Pepsi", "Dr.Pepper", "Mountain Dew", "7UP"]
+  sodas.pop
 end
 
 def remove_element_from_start_of_array(array)
-  sodas = ["wow", "Dr.Pepper", "Mountain Dew", "7UP"]
-  wow = sodas.shift
+  sodas = ["Pepsi", "Dr.Pepper", "Mountain Dew", "7UP"]
+  sodas.shift
 end
 
 def retrieve_element_from_index(array, index_number)
