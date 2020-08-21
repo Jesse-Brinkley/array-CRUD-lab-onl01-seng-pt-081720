@@ -32,7 +32,8 @@ sodas[3]
 end
 
 def retrieve_first_element_from_array(array)
-
+sodas = ["Pepsi", "Dr.Pepper", "Mountain Dew", "wow"]
+sodas[-3]
 end
 
 def retrieve_last_element_from_array(array)
