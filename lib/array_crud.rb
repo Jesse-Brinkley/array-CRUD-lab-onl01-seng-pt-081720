@@ -38,5 +38,5 @@ end
 
 def retrieve_last_element_from_array(array)
 sodas = ["Pepsi", "wow", "Mountain Dew", "arrays!"]
-sodas.index(Mountain Dew)
+sodas.index("Mountain Dew")
 end
